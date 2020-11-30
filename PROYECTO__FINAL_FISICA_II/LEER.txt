@@ -1,0 +1,3 @@
+Para ejecutar el programa sin la necesidad de un IDE:
+	Descargar la carpeta EJECUTABLE
+	Y ejecutar el archivo .jar
